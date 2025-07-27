@@ -1,0 +1,20 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "tourism_planner",
+    "description": "Tourism guide planning"
+  },
+  "documents": [
+    { "filename": "travel 1.pdf", "title": "South France Overview" },
+    { "filename": "travel 2.pdf", "title": "Top Attractions" },
+    { "filename": "travel 3.pdf", "title": "Food & Culture" },
+    { "filename": "travel 4.pdf", "title": "Hotels and Stay" },
+    { "filename": "travel 5.pdf", "title": "Activities and Fun" }
+  ],
+  "persona": {
+    "role": "Travel Planner"
+  },
+  "job_to_be_done": {
+    "task": "Plan a 4-day college trip to South France"
+  }
+}

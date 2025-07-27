@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "input_documents": [
+            "travel 1.pdf",
+            "travel 2.pdf",
+            "travel 3.pdf",
+            "travel 4.pdf",
+            "travel 5.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a 4-day college trip to South France",
+        "language": "en",
+        "processing_timestamp": "2025-07-27 11:28:24.178711"
+    },
+    "extracted_sections": [
+        {
+            "document": "travel 1.pdf",
+            "section_title": "35 ",
+            "importance_rank": 1,
+            "page_number": 37
+        },
+        {
+            "document": "travel 2.pdf",
+            "section_title": "Padmapuram Gardens",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "travel 5.pdf",
+            "section_title": "2",
+            "importance_rank": 3,
+            "page_number": 4
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "travel 1.pdf",
+            "refined_text": "35 \n \nSince the reputation, performance, and profitability of a tour company within its own market are la\nrgely dependent on the efficacy and efficiency of ground operators, the company must take into ac\ncount a number of factors before choosing a handling agency. These factors include the following: \nthe size of the business; the presence of professional staff; the length of the business; and the area o\nf operation or product. \nPlanning a tour \nThe most important function of the tour operator is to plan a tour. Tour operators plan a tour and \nmake a tour itinerary that contains the identification of the origin, destination, and all the stopping \npoints in a traveller\u2019s our. A prospective tour operator also gives advice to intending tourists on \nvarious types of tour programmes that they may choose for their leisure or commercial travel. \nMaking a Tour Package \nThe tour operator buys individual travel components separately from their suppliers and combines \nthem into a package tour. To",
+            "page_number": 37
+        },
+        {
+            "document": "travel 1.pdf",
+            "refined_text": "38 \n \nThe wholesale travel agencies may offer or operate the package tours or may specialize in \ndeveloping tours for inbound as well as outbound travelers. \nSelf Assessment Questions \n1. Differentiate between various types of tour operators (Inbound, Outbound, Domestic, \nGround, Specialized) and evaluate their roles in shaping tourist experiences. (8 marks) \n2. Elaborate on the principles, resources, and guidelines involved in itinerary planning, \nshowcasing the importance of effective planning for tour operators. (7 marks",
+            "page_number": 40
+        },
+        {
+            "document": "travel 2.pdf",
+            "refined_text": "Padmapuram Gardens\nPadmapuram Gardens is a tourist attraction in \nthe Araku valley. This garden has a good \ncollection of appealing plants and flowers. This \ngarden provides\na novel atmosphere with \nunique flower garden and numerous hefty trees \nlike \neucalyptus, \npine \netc. \nTribal \nwelfare \ndepartment has one Horticulture nursery cum \ntraining center run here.\nOne can play and enjoy hide and seek, game \nalong with kids could be a lot of fun here.\nIt is open from 8 AM to 12.30 PM and again on 2.00 PM to 5.00 PM.\nCoffee House\nAt the Araku town behind APRTC bus stand there is a \ncoffee House. Here you will get all variety of Coffee\none can sip hot coffee and get lost off this world. Inside \nthe coffee house you will get history of coffee \nplantation in Africa, Europe and India. One can buy \nchocolates, cakes and different of coffee related \nproducts under one roof.\nTribal Museum\nThe Araku Tribal Museum is perhaps as famed as the \nplace that houses it, the splendiferous Araku Valley. \nSt",
+            "page_number": 2
+        },
+        {
+            "document": "travel 2.pdf",
+            "refined_text": "Get Set Go Travels\nHotel Akshaya Building, Opp: DRM Office,\nWaltair Station Approach Road,\nVisakhapatnam, Andhra Pradesh 530016.\nPhone: +91 92468 14399, +91 90004 18895\nMail: mail@getsetgotravels.in\nWeb: www.getsetgotravels.in\nAraku Valley\nIs a hill station to relax and enjoy nature? \nHere are few tourist spots in Araku and they \ncan be visited in three to four hours time. \nAraku is a famous hill station of AP. It is \nlocated at a distance of 130 KM from \nVisakhapatnam or (Vizag). Located on the \nEastern Ghats, It is famous for its scenic \nbeauty. It has valleys, waterfalls and streams \nflowing by the side of the train track and \nroads, during rainy season. The journey to \nAraku Valley is the most enjoying as the rail \npasses through tunnels, hill sides and \nstreams. It is better to make advance \nbookings by rail and return by road. If you have time you can go ahead upto 20 KM to Chaprai a perennial stream \nflowing over a rocky slope. \nOn the way to Araku by train one can see picturesq",
+            "page_number": 1
+        },
+        {
+            "document": "travel 5.pdf",
+            "refined_text": "2\nRushikonda Beach\nLocated about 8 km north of Visakhapatnam on the Vizag-Bhimili road, Rushikonda\noffers a superb slice of serenity. The azure blue water of the virgin beach will invite\nyoutospendhourssoakinginthesea.Theplacehashillcottagesoverlookingthe\ngrandvista.\nTheLawson\u2019sBayisanextremelybeautifulstretchof thebeachonthewayto\nKailasagiriHill. TheRamakrishnabeachisafavoritehangoutforVizagites.\nAsia\u2019s only Submarine Museum, an aquarium, Kali temple, Visakha\nMuseum, War Memorial, statues of eminent personalities and some\nrestaurants offering seafood are the allurements here, apart from\nlovely parks in the vicinity. There are plans to build an oceanarium\nhere.\nDutch Cemetery\nFAST FACTS:\nBoating 9.00am - 5.30pm\nSpeed Boat Fee: Rs. 250 for 3 persons 6min run. (Rushikonda)\nCruiser Fee: Rs. 60 for Adult,\nRs. 45 for Children per 30 mins run. (Fishing Harbor)\nContact: +91 891 6514428\nMobile: +91 9948042781, +91 9948392978",
+            "page_number": 4
+        },
+        {
+            "document": "travel 5.pdf",
+            "refined_text": "3\nSUBMARINEMUSEUM\nThe Indian Navy has installed I.N.S. Kurusura, a decommissioned submarine, on the sands of the\nRamakrishna beach as a museum. First of its kind in Asia, it is aimed at creating awareness among\nthepublicabouthowsubmarinesworkduringwartimeandhowcrewmembersnormallyoperateit.\nDOLPHIN\u2019SNOSE\nThe Dolphin\u2019s Nose, a rocky headland 174\nmeters high at 358 meters above sea level,\nis among the most captivating spots of\nVizag.\nThe powerful beacon of the\nlighthouse, set on a rock at sea, directs\nships 65 km away.\nThe Dolphin\u2019s Nose\ncharmstheyoungandtheoldalike.\nVUDAPARK\nThe VUDA Park is an excellent place for\nleisure and amusements. A well-equipped\ngym, pleasure rides on horses and camels,\nskating rink, boating and musical fountain\narethemagnetsof thepark.\nSubmarine Museum\nDolphin\u2019s Nose\nVUDA Park\nFAST FACTS:\nTimings: 2.00 pm to 8.30 pm\nSunday: 10.00 am to 8.30 pm\nMonday Holiday\nEntry: Adults -Rs 40/-\nChildren - Rs 20/-\nPhone- +91 9866179234\nFAST FACTS: Musical Fountain,\nDaily: 6:30",
+            "page_number": 5
+        }
+    ]
+}
