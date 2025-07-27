@@ -1,0 +1,20 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "tech_analysis",
+    "description": "Tech company report analysis"
+  },
+  "documents": [
+    { "filename": "tech analysis 1.pdf", "title": "Tech Report 1" },
+    { "filename": "tech analysis 2.pdf", "title": "Tech Report 2" },
+    { "filename": "tech analysis 3.pdf", "title": "Tech Report 3" },
+    { "filename": "tech analysis 4.pdf", "title": "Tech Report 4" },
+    { "filename": "tech analysis 5.pdf", "title": "Tech Report 5" }
+  ],
+  "persona": {
+    "role": "Business Analyst"
+  },
+  "job_to_be_done": {
+    "task": "Compare company performance and market strategy"
+  }
+}
