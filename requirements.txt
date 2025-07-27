@@ -1,0 +1,6 @@
+sentence-transformers==2.2.2
+PyMuPDF==1.23.21
+langdetect==1.0.9
+torch==2.1.2+cpu
+huggingface-hub==0.16.4
+-f https://download.pytorch.org/whl/torch_stable.html
