@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "input_documents": [
+            "food 1.pdf",
+            "food 2.pdf",
+            "food 3.pdf",
+            "food 4.pdf",
+            "food 5.pdf"
+        ],
+        "persona": "Food Blogger",
+        "job_to_be_done": "Discover unique culinary experiences for a travel article",
+        "language": "en",
+        "processing_timestamp": "2025-07-27 11:28:36.787858"
+    },
+    "extracted_sections": [
+        {
+            "document": "food 1.pdf",
+            "section_title": "4 \uf09f April 2015",
+            "importance_rank": 1,
+            "page_number": 4
+        },
+        {
+            "document": "food 2.pdf",
+            "section_title": "3 ",
+            "importance_rank": 2,
+            "page_number": 4
+        },
+        {
+            "document": "food 3.pdf",
+            "section_title": "\uf0b7 duchesses for canap\u00e9s (small eclairs filled with savoury mousses) ",
+            "importance_rank": 3,
+            "page_number": 20
+        },
+        {
+            "document": "food 4.pdf",
+            "section_title": "Interview with Cindy",
+            "importance_rank": 4,
+            "page_number": 3
+        },
+        {
+            "document": "food 5.pdf",
+            "section_title": "www.zanolliovens.com ",
+            "importance_rank": 5,
+            "page_number": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "food 1.pdf",
+            "refined_text": "4 \uf09f April 2015\nSUSTAINABLE GOOD AGRICULTURE PRACTICES MANUAL\nPresentation\nCuando uno hace una mirada de los paisajes de Latinoam\u00e9rica y el \nCaribe, la observaci\u00f3n m\u00e1s com\u00fan es que donde hay asentamientos \nhumanos, no hay bosque.  El caf\u00e9 representa una excepci\u00f3n a \nesta regla: a menudo donde existen cafetales, existen \u00e1rboles que \nforman capas de sombra que asimilan un bosque.  Hoy d\u00eda el caf\u00e9 \naun representa un rubro agr\u00edcola de sostenibilidad ambiental por su \naf\u00e1n a la sombra y relativamente pocos requerimientos de insumos.  \nLos mercados ecol\u00f3gicos de caf\u00e9 abundan, y muchos productores \nhan respondido a estos nichos de mercado donde se premia la \nagricultura sostenible.  Cuando existen cafetales bajo sistemas \nde producci\u00f3n sostenible, comunidades enteras benefician de un \nmicro-clima libre de plaguicidas, donde hay protecci\u00f3n de fuentes \nde agua y conservaci\u00f3n de suelos, y donde se encuentra santuarios \npara la fauna y la biodiversidad.\nSin embargo, hoy en d\u00eda la producci\u00f3n sosten",
+            "page_number": 4
+        },
+        {
+            "document": "food 1.pdf",
+            "refined_text": "1 \uf09f April 2015\nSUSTAINABLE GOOD AGRICULTURE PRACTICES MANUAL\nSUSTAINABLE GOOD AGRICULTURE\nPRACTICES MANUAL,\nTo improve yields of organic coffee and\ncontrol coffee rust",
+            "page_number": 1
+        },
+        {
+            "document": "food 2.pdf",
+            "refined_text": "3 \n \nTable of Contents \n \nCake Decorating Basics ........................................................................................................ 6 \nBasic Supplies ............................................................................................................................ 6 \nBaking the Cake .......................................................................................................................... 6 \nTips for Baking\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...\u2026\u2026\u2026\u2026....\u2026\u20267 \nPreparing the Frosting\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...\u2026\u2026...\u2026\u2026\u2026.9 \nIcing or Frosting\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026.\u2026\u2026....10 \nIcing Recipes\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u202611 \n Coloring Techniques\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026.13 \n Preparing the Cake Board\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026 16 \n Transporting the Cake\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026. 19 \n Frosting the Cake\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026........21 \n \nIcing Consistency\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..23 \nCake Decorating Manual Units 1\u2013",
+            "page_number": 4
+        },
+        {
+            "document": "food 2.pdf",
+            "refined_text": "28 \n \n\u2022 Be open and flexible when thinking about color.  Color styles change and \nare often influenced by customs and ethnic heritage, as well as by the \ndesign. \n \n\u2022 Brightness is a personal matter as long as it does not detract from the \noverall design. \n \n5.  Is the combination of edible material appropriate for design? \n\u2022 Consider how well the edibles will last according to when the cake will be \nserved or exhibited.  \n \nBalancing Designs \nYou must mark the cake when you select a design that is repeated or placed at equally \nspaced intervals.  Decide whether you want to divide the cake into four, six, eight, or \nmore sections.  Place a small dot with a toothpick at each point to serve as a guide.  Be \nsure dots are covered with candy, etc. so they do not show on the finished cake. \nDecorating Ideas \n1. Apply a Stencil Design \n \na. Use a cookie cutter for a pattern.   \n \nb. Colored sugar: To prepare your own colored sugar, measure \u00bd cup sugar \ninto small bowl or plastic bag.  Blend ",
+            "page_number": 29
+        },
+        {
+            "document": "food 3.pdf",
+            "refined_text": "\uf0b7 duchesses for canap\u00e9s (small eclairs filled with savoury mousses) \n\uf0b7 Caroline's (crescent shaped and filled with savoury mousses topped with \nchaud-froid sauce)",
+            "page_number": 20
+        },
+        {
+            "document": "food 3.pdf",
+            "refined_text": "bakeries and patisseries. Variations may be a cheese, chocolate, cream, savory \nfilling such as bacon filled croissant. It is also a breakfast roll. \n \nPHYLLO/FILO PASTRY \nPhyllo, filo, or fillo dough is paper-thin sheets of raw, unleavened laminated \nflour dough used for making pastries in Greek, Middle Eastern and other \nregional cuisines. Can be used for various snacks and dessert like baklava, \nsavory envelops \netc. \n \nSTRUDEL DOUGH \nA strudel is a type of layered pastry with a \u2014 most often sweet \u2014 filling inside, \noften served with cream. It became well known and gained popularity in the \n18th century throughout the world. Strudel is most often associated with \nAustrian cuisine but is also a traditional pastry in the whole area formerly \nbelonging to the Austro-Hungarian Empire. Here first an oil shortened dough \nis pulled and stretched by hand and then brushed with oil, after putting filling \nit has to be rolled like a Swiss roll. It is a good example of oil laminated dough.",
+            "page_number": 11
+        },
+        {
+            "document": "food 4.pdf",
+            "refined_text": "Interview with Cindy\nPerfect Pie Tips\nPie Recipes12\n18\n20\n22\nFall Crafting\nHoliday Giveaway23\n8\n14\n4\nTools of the Trade\nCrust Recipes\nSimplify your Holiday\nW H A T S  I N S I D E",
+            "page_number": 3
+        },
+        {
+            "document": "food 4.pdf",
+            "refined_text": "PIE RECIPES",
+            "page_number": 14
+        },
+        {
+            "document": "food 5.pdf",
+            "refined_text": "www.zanolliovens.com \nBASIC PASTRY\n WORK",
+            "page_number": 1
+        },
+        {
+            "document": "food 5.pdf",
+            "refined_text": "Cooking \nWarning: Remix and roll out \nany pastry cuttings to reuse \nthem; left on the tray, they can\n cause irregularities in \ncooking.\n 14                           www.zanolliovens.com \nWe chose to make round biscuits with a 6 cm diameter.\nArrange the biscuits in a regular pattern on the tray to make sure they cook evenly.\nPastry mixtures and the demands of the pastry chef can vary, thus oven \nsettings may need to be adapted to the particular recipe.",
+            "page_number": 14
+        }
+    ]
+}

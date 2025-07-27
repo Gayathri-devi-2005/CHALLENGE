@@ -1,0 +1,20 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "food_curation",
+    "description": "Culinary insights"
+  },
+  "documents": [
+    { "filename": "food 1.pdf", "title": "Regional Cuisine" },
+    { "filename": "food 2.pdf", "title": "Famous Dishes" },
+    { "filename": "food 3.pdf", "title": "Local Ingredients" },
+    { "filename": "food 4.pdf", "title": "Cooking Classes" },
+    { "filename": "food 5.pdf", "title": "Street Food Tours" }
+  ],
+  "persona": {
+    "role": "Food Blogger"
+  },
+  "job_to_be_done": {
+    "task": "Discover unique culinary experiences for a travel article"
+  }
+}
